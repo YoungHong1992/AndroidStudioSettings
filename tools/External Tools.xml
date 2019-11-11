@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javah" description="javah command" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Java\jdk1.7.0\bin\javah.exe" />
+      <option name="PARAMETERS" value="$FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/src/main/java" />
+    </exec>
+  </tool>
+</toolSet>
