@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SYSTEM UI FLAG LAYOUT STABLE" />
+      <item value="Immersive" />
       <item value="index into m where the matrix starts" />
       <item value="Y axis component" />
       <item value="X axis component" />
@@ -49,13 +51,11 @@
       <item value="negative integer" />
       <item value="ESCALATED" />
       <item value="announce" />
-      <item value="Escalating" />
-      <item value="overlap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="346" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
