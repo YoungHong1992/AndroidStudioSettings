@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Updates the object model matrix and applies scaling." />
       <item value="Window flag: allow window to extend outside of the screen" />
       <item value="SYSTEM UI FLAG LAYOUT STABLE" />
       <item value="Immersive" />
@@ -50,12 +51,11 @@
       <item value="Set the listener to be notified when a refresh is triggered via the swipe * gesture." />
       <item value="specified object." />
       <item value="negative integer" />
-      <item value="ESCALATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
