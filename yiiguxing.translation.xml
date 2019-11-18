@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Participant" />
       <item value="Variants" />
       <item value="assemble" />
       <item value="Mesh" />
@@ -50,12 +51,11 @@
       <item value="Perspective" />
       <item value="Translates matrix m by x, y, and z in place" />
       <item value="translation factor x" />
-      <item value="Translates matrix m by x, y, and z, putting the result in tm." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
