@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Geometry" />
       <item value="ordinal" />
       <item value="Participant" />
       <item value="Variants" />
@@ -50,12 +51,11 @@
       <item value="scale factor x" />
       <item value="Scales matrix m in place by sx, sy, and sz." />
       <item value="Perspective" />
-      <item value="Translates matrix m by x, y, and z in place" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
