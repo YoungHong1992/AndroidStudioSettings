@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fling" />
+      <item value="Gesture Detector" />
       <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed." />
       <item value="Geometry" />
       <item value="ordinal" />
@@ -49,13 +51,11 @@
       <item value="Rotates matrix m in place by angle a (in degrees)" />
       <item value="position" />
       <item value="transpose" />
-      <item value="scale factor x" />
-      <item value="Scales matrix m in place by sx, sy, and sz." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
