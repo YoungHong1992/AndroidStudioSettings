@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="logfile" type="PLAIN_TEXT" />
+      <mapping pattern="STHandle.h" type="PLAIN_TEXT" />
+      <mapping pattern="blur" type="PLAIN_TEXT" />
+      <mapping pattern="view_verification_code.xml" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
