@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts Euler angles to a rotation matrix." />
+      <item value="Euler" />
       <item value="Quaternion" />
       <item value="translate" />
       <item value="This client will later call back `responseCallback` with either an HTTP response or a failure * exception." />
@@ -49,13 +51,11 @@
       <item value="IDLE" />
       <item value="Return whether the quick scale gesture, in which the user performs a double tap followed by a * swipe, should perform scaling. {@see #setQuickScaleEnabled(boolean)}." />
       <item value="toggle" />
-      <item value=" Album" />
-      <item value="Returns true if the matrix is identity. This maybe faster than testing if (getType() == 0)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
