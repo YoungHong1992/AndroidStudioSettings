@@ -30,6 +30,14 @@
           <option name="url" value="git@gitlab.sz.sensetime.com:fuxiuyuan/ardraw-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.sz.sensetime.com/fuxiuyuan/ardraw-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.sz.sensetime.com" />
+          <option name="userName" value="yanghong" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Project" />
