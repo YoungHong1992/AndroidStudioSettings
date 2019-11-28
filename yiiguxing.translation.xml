@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="media Type Exclusive" />
+      <item value="Exclusive" />
+      <item value="true corresponds to not being able to choose images and videos at the same * time, and false corresponds to being able to do this." />
+      <item value="Whether can choose images and videos at the same time during one single choosing * process" />
       <item value="Mesh" />
       <item value="Plane" />
       <item value="Helper to track the display rotations" />
@@ -47,15 +51,11 @@
       <item value="angle to rotate in degrees" />
       <item value="_POSITION SOMEWHERE INSIDE YOUR MAP" />
       <item value="Show a dialog with button to send user to System settings to grant us permissions" />
-      <item value="Show dialog with rationale for required permissions" />
-      <item value="Rationale" />
-      <item value="direction" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
