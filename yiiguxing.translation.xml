@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="percent" />
       <item value="Tile" />
       <item value="directly" />
       <item value="Purchases" />
@@ -50,12 +51,11 @@
       <item value="Inersect " />
       <item value="Sphere" />
       <item value="Preconcats the matrix with the specified scale" />
-      <item value="Preconcat the current matrix with the specified matrix." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
