@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="can't fit new bitmap" />
+      <item value="bitmap marked for reuse" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
       <item value="media Type Exclusive" />
       <item value="Exclusive" />
@@ -49,13 +51,11 @@
       <item value="index into m where the matrix starts" />
       <item value="Y axis component" />
       <item value="X axis component" />
-      <item value="angle to rotate in degrees" />
-      <item value="_POSITION SOMEWHERE INSIDE YOUR MAP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
