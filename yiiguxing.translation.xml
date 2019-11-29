@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Factor" />
+      <item value="Magnifying" />
       <item value="By default, * the level immediately higher (in index) is picked, to avoid sub-sampling." />
       <item value="Alter the level at which tiles are picked for a given scale." />
       <item value="appropriate for local usage. Don't hesitate to raise up to 60 for remote usage" />
@@ -49,13 +51,11 @@
       <item value="This class renders the AR background from camera feed. It creates and hosts the texture * given to ARCore to be filled with the camera image." />
       <item value="estimate" />
       <item value="Transform a vector3f FROM anchor coordinates TO world coordinates" />
-      <item value="poll" />
-      <item value="offer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
