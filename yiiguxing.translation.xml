@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="By default, * the level immediately higher (in index) is picked, to avoid sub-sampling." />
+      <item value="Alter the level at which tiles are picked for a given scale." />
+      <item value="appropriate for local usage. Don't hesitate to raise up to 60 for remote usage" />
+      <item value="For remote HTTP tiles, don't hesitate to raise this up to 60 (if the device is powerful enough)." />
+      <item value="The maximum level of parallelism. For local tiles, a value of 2 is enough." />
+      <item value="the size of tiles (must be squares)" />
+      <item value="row" />
+      <item value="col" />
       <item value="can't fit new bitmap" />
       <item value="bitmap marked for reuse" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
@@ -43,25 +51,18 @@
       <item value="Transform a vector3f FROM anchor coordinates TO world coordinates" />
       <item value="poll" />
       <item value="offer" />
-      <item value="Single Tap Up" />
-      <item value="Updates the object model matrix and applies scaling." />
-      <item value="Window flag: allow window to extend outside of the screen" />
-      <item value="SYSTEM UI FLAG LAYOUT STABLE" />
-      <item value="Immersive" />
-      <item value="index into m where the matrix starts" />
-      <item value="Y axis component" />
-      <item value="X axis component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="399" />
+        <entry key="ENGLISH" value="400" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
