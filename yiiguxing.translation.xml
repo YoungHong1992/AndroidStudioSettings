@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coordinate" />
+      <item value="Translater" />
+      <item value="The left edge of the rectangle used when calculating position" />
       <item value="Factor" />
       <item value="Magnifying" />
       <item value="By default, * the level immediately higher (in index) is picked, to avoid sub-sampling." />
@@ -48,14 +51,11 @@
       <item value="Participant" />
       <item value="Variants" />
       <item value="assemble" />
-      <item value="This class renders the AR background from camera feed. It creates and hosts the texture * given to ARCore to be filled with the camera image." />
-      <item value="estimate" />
-      <item value="Transform a vector3f FROM anchor coordinates TO world coordinates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
