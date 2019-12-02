@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The return value is unspecified if this pathname denotes a directory." />
+      <item value="Returns the length of the file denoted by this abstract pathname." />
       <item value="If the media contains video, this key retrieves its height." />
       <item value="This method does not automatically escape characters that * are illegal in URLs" />
       <item value="Ticket" />
@@ -49,13 +51,11 @@
       <item value="Schedules the request to be executed at some point in the future." />
       <item value="Fling" />
       <item value="Gesture Detector" />
-      <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed." />
-      <item value="Geometry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
