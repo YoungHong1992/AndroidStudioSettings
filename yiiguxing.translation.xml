@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method does not automatically escape characters that * are illegal in URLs" />
       <item value="Ticket" />
       <item value="Media" />
       <item value="coordinate" />
@@ -50,12 +51,11 @@
       <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed." />
       <item value="Geometry" />
       <item value="ordinal" />
-      <item value="Participant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
