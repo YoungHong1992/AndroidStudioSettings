@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
+      <item value="However these * software-rendered usages are discouraged and have compatibility issues with hardware-only * rendering features such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping." />
+      <item value="In the rare cases where caching layers are useful, * such as for alpha animations, {@link #setLayerType(int, Paint)} handles this with hardware * rendering. For software-rendered snapshots of a small part of the View hierarchy or * individual Views it is recommended to create a {@link Canvas} from either a {@link Bitmap} or * {@link android.graphics.Picture} and call {@link #draw(Canvas)} on the View." />
+      <item value="With hardware-acceleration, intermediate cache * layers are largely unnecessary and can easily result in a net loss in performance due to the * cost of creating and updating the layer." />
+      <item value="The view drawing cache was largely made obsolete with the introduction of * hardware-accelerated rendering in API 11" />
       <item value="The return value is unspecified if this pathname denotes a directory." />
       <item value="Returns the length of the file denoted by this abstract pathname." />
       <item value="If the media contains video, this key retrieves its height." />
@@ -46,16 +51,11 @@
       <item value="Euler" />
       <item value="Quaternion" />
       <item value="translate" />
-      <item value="This client will later call back `responseCallback` with either an HTTP response or a failure * exception." />
-      <item value="The [dispatcher][OkHttpClient.dispatcher] defines when the request will run: usually * immediately unless there are several other requests currently being executed." />
-      <item value="Schedules the request to be executed at some point in the future." />
-      <item value="Fling" />
-      <item value="Gesture Detector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
