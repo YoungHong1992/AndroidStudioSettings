@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Not Tracking Escalating" />
+      <item value="Escalating" />
       <item value="the audio stream type" />
       <item value="Audio" />
       <item value="an offset into m where the input matrix is stored." />
@@ -49,13 +51,11 @@
       <item value="percent" />
       <item value="Tile" />
       <item value="directly" />
-      <item value="Purchases" />
-      <item value="Treasure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="426" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
