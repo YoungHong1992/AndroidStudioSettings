@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cloud Anchor" />
+      <item value="Light Estimation" />
       <item value="optional" />
       <item value="Not Tracking Escalating" />
       <item value="Escalating" />
@@ -49,13 +51,11 @@
       <item value="Rotation" />
       <item value="MINUTE" />
       <item value="MONTH" />
-      <item value="percent" />
-      <item value="Tile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
