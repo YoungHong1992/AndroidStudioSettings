@@ -1,67 +1,68 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="angle of rotation, in degrees" />
-      <item value="Converts Euler angles to a rotation matrix." />
-      <item value="Euler" />
-      <item value="Quaternion" />
-      <item value="translate" />
-      <item value="This client will later call back `responseCallback` with either an HTTP response or a failure * exception." />
-      <item value="The [dispatcher][OkHttpClient.dispatcher] defines when the request will run: usually * immediately unless there are several other requests currently being executed." />
-      <item value="Schedules the request to be executed at some point in the future." />
-      <item value="Fling" />
-      <item value="Gesture Detector" />
-      <item value="Notify any registered observers that the &lt;code&gt;itemCount&lt;/code&gt; items starting at * position &lt;code&gt;positionStart&lt;/code&gt; have changed." />
-      <item value="Geometry" />
-      <item value="ordinal" />
-      <item value="Participant" />
-      <item value="Variants" />
-      <item value="assemble" />
+      <item value="Pass {@code null} as {@code surface} if the * codec does not generate raw video output (e.g. not a video * decoder) and/or if you want to configure the codec for * {@link ByteBuffer} output." />
+      <item value="Indices of the input buffers that are currently available for writing" />
+      <item value="associated" />
+      <item value="No more than 20 Cloud Anchors can be created." />
+      <item value="Cloud Anchor" />
+      <item value="Light Estimation" />
+      <item value="optional" />
+      <item value="Not Tracking Escalating" />
+      <item value="Escalating" />
+      <item value="the audio stream type" />
+      <item value="Audio" />
+      <item value="an offset into m where the input matrix is stored." />
+      <item value="an offset into mInv where the inverted matrix is * stored." />
+      <item value="the array that holds the output inverted matrix" />
+      <item value="invert M" />
+      <item value="overlap" />
+      <item value="Transposes a 4 x 4 matrix." />
+      <item value="For screenshots of the UI for feedback * reports or unit testing the {@link PixelCopy} API is recommended." />
+      <item value="However these * software-rendered usages are discouraged and have compatibility issues with hardware-only * rendering features such as {@link android.graphics.Bitmap.Config#HARDWARE Config.HARDWARE} * bitmaps, real-time shadows, and outline clipping." />
+      <item value="In the rare cases where caching layers are useful, * such as for alpha animations, {@link #setLayerType(int, Paint)} handles this with hardware * rendering. For software-rendered snapshots of a small part of the View hierarchy or * individual Views it is recommended to create a {@link Canvas} from either a {@link Bitmap} or * {@link android.graphics.Picture} and call {@link #draw(Canvas)} on the View." />
+      <item value="With hardware-acceleration, intermediate cache * layers are largely unnecessary and can easily result in a net loss in performance due to the * cost of creating and updating the layer." />
+      <item value="The view drawing cache was largely made obsolete with the introduction of * hardware-accelerated rendering in API 11" />
+      <item value="The return value is unspecified if this pathname denotes a directory." />
+      <item value="Returns the length of the file denoted by this abstract pathname." />
+      <item value="If the media contains video, this key retrieves its height." />
+      <item value="This method does not automatically escape characters that * are illegal in URLs" />
+      <item value="Ticket" />
+      <item value="Media" />
+      <item value="coordinate" />
+      <item value="Translater" />
+      <item value="The left edge of the rectangle used when calculating position" />
+      <item value="Factor" />
+      <item value="Magnifying" />
+      <item value="By default, * the level immediately higher (in index) is picked, to avoid sub-sampling." />
+      <item value="Alter the level at which tiles are picked for a given scale." />
+      <item value="appropriate for local usage. Don't hesitate to raise up to 60 for remote usage" />
+      <item value="For remote HTTP tiles, don't hesitate to raise this up to 60 (if the device is powerful enough)." />
+      <item value="The maximum level of parallelism. For local tiles, a value of 2 is enough." />
+      <item value="the size of tiles (must be squares)" />
+      <item value="row" />
+      <item value="col" />
+      <item value="can't fit new bitmap" />
+      <item value="bitmap marked for reuse" />
+      <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
+      <item value="media Type Exclusive" />
+      <item value="Exclusive" />
+      <item value="true corresponds to not being able to choose images and videos at the same * time, and false corresponds to being able to do this." />
+      <item value="Whether can choose images and videos at the same time during one single choosing * process" />
       <item value="Mesh" />
-      <item value="This class renders the AR background from camera feed. It creates and hosts the texture * given to ARCore to be filled with the camera image." />
-      <item value="estimate" />
-      <item value="Transform a vector3f FROM anchor coordinates TO world coordinates" />
-      <item value="poll" />
-      <item value="offer" />
-      <item value="Single Tap Up" />
-      <item value="Updates the object model matrix and applies scaling." />
-      <item value="Window flag: allow window to extend outside of the screen" />
-      <item value="SYSTEM UI FLAG LAYOUT STABLE" />
-      <item value="Immersive" />
-      <item value="index into m where the matrix starts" />
-      <item value="Y axis component" />
-      <item value="X axis component" />
-      <item value="angle to rotate in degrees" />
-      <item value="_POSITION SOMEWHERE INSIDE YOUR MAP" />
-      <item value="Show a dialog with button to send user to System settings to grant us permissions" />
-      <item value="Show dialog with rationale for required permissions" />
-      <item value="Rationale" />
-      <item value="direction" />
-      <item value="origin" />
-      <item value="project" />
-      <item value="distance" />
-      <item value="Inersect " />
-      <item value="Sphere" />
-      <item value="Preconcats the matrix with the specified scale" />
-      <item value="Preconcat the current matrix with the specified matrix." />
-      <item value="set the paint's text size in pixel units." />
-      <item value="ripple" />
-      <item value="related" />
-      <item value="Compound" />
-      <item value="GALLERY" />
-      <item value="IDLE" />
-      <item value="Return whether the quick scale gesture, in which the user performs a double tap followed by a * swipe, should perform scaling. {@see #setQuickScaleEnabled(boolean)}." />
+      <item value="Plane" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
