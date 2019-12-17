@@ -5,7 +5,6 @@
       <mapping pattern="STHandle.h" type="PLAIN_TEXT" />
       <mapping pattern="blur" type="PLAIN_TEXT" />
       <mapping pattern="view_verification_code.xml" type="PLAIN_TEXT" />
-      <mapping ext="glsl" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
