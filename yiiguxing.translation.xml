@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="denominator" />
+      <item value="numerator" />
+      <item value="Rational" />
+      <item value="contains" />
+      <item value="if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
+      <item value="Pattern" />
+      <item value="Margin" />
+      <item value="Indent" />
       <item value="Returns the number of bytes that can be read without blocking." />
       <item value="Some * operating systems may return &lt;code&gt;0L&lt;/code&gt; for pathnames * denoting system-dependent entities such as devices or pipes." />
       <item value="entities" />
@@ -43,19 +51,11 @@
       <item value="Magnifying" />
       <item value="By default, * the level immediately higher (in index) is picked, to avoid sub-sampling." />
       <item value="Alter the level at which tiles are picked for a given scale." />
-      <item value="appropriate for local usage. Don't hesitate to raise up to 60 for remote usage" />
-      <item value="For remote HTTP tiles, don't hesitate to raise this up to 60 (if the device is powerful enough)." />
-      <item value="The maximum level of parallelism. For local tiles, a value of 2 is enough." />
-      <item value="the size of tiles (must be squares)" />
-      <item value="row" />
-      <item value="col" />
-      <item value="can't fit new bitmap" />
-      <item value="bitmap marked for reuse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
