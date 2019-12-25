@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class defines four categories of operations upon * float buffers:" />
       <item value="Inform the default EGLContextFactory and default EGLConfigChooser * which EGLContext client version to pick." />
       <item value="denominator" />
       <item value="numerator" />
@@ -50,12 +51,11 @@
       <item value="The left edge of the rectangle used when calculating position" />
       <item value="Factor" />
       <item value="Magnifying" />
-      <item value="By default, * the level immediately higher (in index) is picked, to avoid sub-sampling." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
