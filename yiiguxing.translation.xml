@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Face Attribute" />
       <item value="companion" />
       <item value="Allocates a new direct byte buffer." />
       <item value="This class defines four categories of operations upon * float buffers:" />
@@ -50,12 +51,11 @@
       <item value="Media" />
       <item value="coordinate" />
       <item value="Translater" />
-      <item value="The left edge of the rectangle used when calculating position" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="450" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
