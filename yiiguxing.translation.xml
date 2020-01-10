@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Track" />
       <item value="face expression" />
       <item value="Expression" />
       <item value="Face Attribute" />
@@ -50,12 +51,11 @@
       <item value="If the media contains video, this key retrieves its height." />
       <item value="This method does not automatically escape characters that * are illegal in URLs" />
       <item value="Ticket" />
-      <item value="Media" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
